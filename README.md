@@ -1,7 +1,4 @@
 <img width="426" alt="スクリーンショット 2021-03-31 21 37 16" src="https://user-images.githubusercontent.com/76623704/113145403-54641a80-9269-11eb-8e33-d24bd234538c.png">
-
-# to.movie
-
 ## サイト概要
 この「to.movie」は、ユーザー全員が映画レビューやお気に入り登録ができ、ランキング順にも閲覧できる映画情報サービスです。
 
@@ -35,5 +32,5 @@
 - IDE：Cloud9
 
 # 使用素材
-ICOOON MONO
-https://icooon-mono.com/11383-%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%AC%E3%82%B9%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3/
+SEOSTHEMES
+https://seosthemes.com/free-wordpress-video-theme/
