@@ -17,16 +17,16 @@
 ### 主な利用シーン
 休日など暇な時間
 
-## 設計書
-  ワイヤーフレーム（ユーザー） 
+##1. 設計書
+ 1. ワイヤーフレーム（ユーザー） 
   https://docs.google.com/presentation/d/18MFpl0PV0FYlHT1Xn7RdBuWu7FJXc1LrIPFtmJXPL7Q/edit#slide=id.p 
-  ワイヤーフレーム（管理者） 
+ 1. ワイヤーフレーム（管理者） 
   https://docs.google.com/presentation/d/1tSI2F-gJIG1dszQcNnDUaa7LnFRk6-k3L40UoijNmUY/edit#slide=id.gcbdaf71e8e_0_991 
-  ER図 
+1.  ER図 
   [PF_ER.pdf](https://github.com/furuya-tomoki/tomovie_app/files/6233380/PF_ER.pdf) 
-  テーブル定義書 
+1.  テーブル定義書 
   https://docs.google.com/spreadsheets/d/1G3Eaex_CYaY-vIFv4fOySq_nvVL_rGiE/edit#gid=45950763 
-  アプリケーション詳細設計 
+1.  アプリケーション詳細設計 
   https://docs.google.com/spreadsheets/d/1LbNoiS4i-XogpQDr39MgiHMJ0CggOC4c/edit#gid=2077000419 
 
 ## チャレンジ要素一覧 
