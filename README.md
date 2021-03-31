@@ -1,4 +1,4 @@
-![映写機のアイコン素材 (1)](https://user-images.githubusercontent.com/76623704/113145025-e3246780-9268-11eb-85f4-4d4909c66cd6.jpeg)
+![映写機のアイコン素材 (2)](https://user-images.githubusercontent.com/76623704/113145124-02bb9000-9269-11eb-82a4-1bcb84294738.jpeg)
 
 # to.movie
 
