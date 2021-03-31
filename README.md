@@ -17,7 +17,7 @@
 ### 主な利用シーン
 休日など暇な時間
 
-##1. 設計書
+##・ 設計書
  1. ワイヤーフレーム（ユーザー） 
   https://docs.google.com/presentation/d/18MFpl0PV0FYlHT1Xn7RdBuWu7FJXc1LrIPFtmJXPL7Q/edit#slide=id.p 
  1. ワイヤーフレーム（管理者） 
