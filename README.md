@@ -1,6 +1,5 @@
 # README 
-
-# tomovie
+・tomovie
 
 ## サイト概要
 映画レビューサイト
