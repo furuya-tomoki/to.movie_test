@@ -1,4 +1,4 @@
-![映写機のアイコン素材 (2)](https://user-images.githubusercontent.com/76623704/113145124-02bb9000-9269-11eb-82a4-1bcb84294738.jpeg)
+<img width="426" alt="スクリーンショット 2021-03-31 21 37 16" src="https://user-images.githubusercontent.com/76623704/113145403-54641a80-9269-11eb-8e33-d24bd234538c.png">
 
 # to.movie
 
