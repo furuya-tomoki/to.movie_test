@@ -1,4 +1,3 @@
-(https://user-images.githubusercontent.com/76623704/113144919-c5ef9900-9268-11eb-86d0-69833fb0577a.jpeg)
 # to.movie
 
 ## サイト概要
